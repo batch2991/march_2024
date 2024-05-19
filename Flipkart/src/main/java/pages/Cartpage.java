@@ -12,4 +12,9 @@ public class Cartpage
 	{
 		System.out.println("code to remove item from cart");
 	}
+	
+	public void payment()
+	{
+		
+	}
 }
