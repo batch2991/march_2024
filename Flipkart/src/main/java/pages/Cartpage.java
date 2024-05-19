@@ -8,4 +8,8 @@ public class Cartpage
 	{
 		System.out.println("dfsdf");
 	}
+	public void removeProduct()
+	{
+		System.out.println("code to remove item from cart");
+	}
 }
