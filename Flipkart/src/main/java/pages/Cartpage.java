@@ -15,6 +15,6 @@ public class Cartpage
 	
 	public void payment()
 	{
-		
+		System.out.println("code to upi payment for cart");
 	}
 }
