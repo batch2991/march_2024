@@ -12,6 +12,10 @@ public class Cartpage
 	{
 		System.out.println("code to remove item from cart");
 	}
+	public void creditcard()
+	{
+		System.out.println("This method is for credit card payment");
+	}
 	
 	
 }
