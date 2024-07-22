@@ -14,7 +14,7 @@ public class Cartpage
 	}
 	public void creditcard()
 	{
-		
+		System.out.println("This method is for credit card payment");
 	}
 	
 	
